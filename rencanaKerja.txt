@@ -1,0 +1,6 @@
+- membuat frontend
+- memmbuat backend
+- menyambungkan frontend dan backend
+- membuat database
+- menyambungkan backend dan database
+- evaluasi user
